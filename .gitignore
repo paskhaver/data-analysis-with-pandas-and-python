@@ -9,7 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
-# mac stuff
+# macOS stuff
 .DS_Store
 
 # Large course files, checkpoints
@@ -19,4 +19,12 @@ wheels/
 # VSCode settings
 .vscode/
 jupyter-cleaner.js
+
+# Multiple-choice quizzes
+quizzes/
+
+# Datasets created through code
+Complete/baby_names.csv
+Complete/NYC Baby Data.csv
+Complete/NYC Baby Data.xlsx
 
