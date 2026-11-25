@@ -24,9 +24,9 @@ jupyter-cleaner.js
 quizzes/
 
 # Datasets created through code
-Complete/baby_names.csv
-Complete/NYC Baby Data.csv
-Complete/NYC Baby Data.xlsx
+*/baby_names.csv
+*/NYC Baby Data.csv
+*/NYC Baby Data.xlsx
 
 
 # Udemy lab zips
